@@ -1,18 +1,18 @@
 <?php
 /**
- * Exif Test
+ * ImageMetaData Test
  *
- * Get/set meta to image
+ * Get/set meta data to image
  *
  * @author Jeroen Desloovere <jeroen@siesqo.be>
  * @date 20130826
  */
 
 // require
-require '../exif.php';
+require '../imageMetaData.php';
 
 // dump thumb
-$thumb = Exif::getThumb('assets/example.jpg');
+$thumb = ImageMetaData::getThumb('assets/example.jpg');
 
 // dump thumb
 echo $thumb;

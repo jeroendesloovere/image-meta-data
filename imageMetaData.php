@@ -1,13 +1,13 @@
 <?php
 /**
- * Exif
+ * ImageMetaData
  *
- * Get/set meta to image
+ * Get/set meta data to image
  *
  * @author Jeroen Desloovere <jeroen@siesqo.be>
  * @date 20130826
  */
-class Exif
+class ImageMetaData
 {
 	/**
 	 * Get value from image
