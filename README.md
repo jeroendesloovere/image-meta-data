@@ -1,6 +1,7 @@
-# Exif
+# Exif class
 
-With the Exif PHP class you can get all metadata from an image.
+Get metadata from images using the Exif PHP class.
+
 
 ## Based on
 
