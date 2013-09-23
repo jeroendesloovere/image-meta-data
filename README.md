@@ -1,6 +1,6 @@
 # ImageMetaData class
 
-Get meta data from images using the Exif PHP class.
+This ImageMetaData PHP class can get/set Meta data to images.
 @todo: setting meta data for images
 @todo: removing meta data in image to make it smaller
 

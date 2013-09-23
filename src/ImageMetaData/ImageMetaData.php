@@ -5,7 +5,6 @@
  * Get/set meta data to image
  *
  * @author Jeroen Desloovere <jeroen@siesqo.be>
- * @date 20130826
  */
 class ImageMetaData
 {
@@ -78,11 +77,8 @@ class ImageMetaData
 
 
 /**
- * Exif Exception
+ * ImageMetaData Exception
  *
  * @author Jeroen Desloovere <jeroen@siesqo.be>
  */
-class ExifException extends Exception
-{
-}
-
+class ExifException extends Exception {}
