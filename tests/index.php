@@ -9,7 +9,7 @@
  */
 
 // require
-require '../imageMetaData.php';
+require '../src/ImageMetaData/ImageMetaData.php';
 
 // dump thumb
 $thumb = ImageMetaData::getThumb('assets/example.jpg');
